@@ -64,8 +64,6 @@ I did game console modding as well, below are projects relating to the PlayStati
 
 [YouTube](https://youtube.com/kiwidoggie)
 
-[Keybase](https://keybase.io/kiwidog)
-
 [Telegram](https://t.me/kiwidog)
 
 [Discord](https://discord.gg/69FKAf8)
