@@ -74,8 +74,6 @@ I did game console modding as well, below are projects relating to the PlayStati
 
 [Tech Website](http://kiwidog.me)
 
-[Personal Website](http://allenthinks.com)
-
 
 
 
